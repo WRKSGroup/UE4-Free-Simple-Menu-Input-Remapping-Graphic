@@ -1,1 +1,9 @@
+title: Unreal Engine 4 - Free Blueprints Simple Menu Input Remapping & Graphic
+description: "Simple menu – Input Remapping & Graphic for UE4” is a set of parameters composed of modifiable templates - control and graphic parameters are already set up in.
+google_analytics: 
+show_downloads: true
 theme: jekyll-theme-cayman
+
+gems:
+- jekyll-mentions
+
