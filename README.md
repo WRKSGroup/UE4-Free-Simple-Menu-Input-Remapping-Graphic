@@ -36,7 +36,7 @@ If you have an issue, Feedback, just open an issue or send me a message through 
 ## How do I get started ?
   -  [Download](https://github.com/Antize/UE4-Free-Simple-Menu-Input-Remapping-Graphic/releases/)  
   -  Extract files in porject
-  -  Guide [Image on Google drive](https://drive.google.com/drive/folders/1yHgg4s89Zup775bEVAEqp55ukmaz-QVa) or [Video on Youtube](https://www.youtube.com/watch?v=EiBX9FaXm8I) 
+  -  Guide [On Google Drive](https://drive.google.com/drive/folders/1yHgg4s89Zup775bEVAEqp55ukmaz-QVa) or [On Youtube](https://www.youtube.com/watch?v=EiBX9FaXm8I) 
 
 ## List of features
 - Blueprints and widgets that allow you to change your settings - graphics and inputs.
