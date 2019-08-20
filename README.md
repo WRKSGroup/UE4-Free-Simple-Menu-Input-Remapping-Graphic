@@ -39,12 +39,12 @@ If you have an issue, Feedback, just open an issue or send me a message through 
   -  Guide [Image on Google drive](https://drive.google.com/drive/folders/1yHgg4s89Zup775bEVAEqp55ukmaz-QVa) or [Video on Youtube](https://www.youtube.com/watch?v=EiBX9FaXm8I) 
 
 ## List of features
-Blueprints and widgets that allow you to change your settings - graphics and inputs.
-Create new Action/Axis mapping.
-Create new Graphic/Video setting.
-Mouse and Keyboard Binding at Runtime.
-Graphic & Video setting Change at Runtime.
-Save and Load setting on Startup.
+- Blueprints and widgets that allow you to change your settings - graphics and inputs.
+- Create new Action/Axis mapping.
+- Create new Graphic/Video setting.
+- Mouse and Keyboard Binding at Runtime.
+- Graphic & Video setting Change at Runtime.
+- Save and Load setting on Startup.
 
 ## Inside of package, you must have the following files
 - **Number of Function Library :** 1
