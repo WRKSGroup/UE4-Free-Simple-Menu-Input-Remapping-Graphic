@@ -2,7 +2,7 @@
 # UE4 - Free Blueprints Simple Menu Input Remapping & Graphic by Antize
 
 ## Last Version
-**(Ver.1.0)**
+**(Ver.1.05) 20-08-19**
 
 ## Preview (Tuto)
 https://www.youtube.com/watch?v=EiBX9FaXm8I
